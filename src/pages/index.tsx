@@ -75,7 +75,7 @@ export default function Home() {
             />
             <button
               type="submit"
-              className="text-gray-900 hover:text-white border border-gray-800 focus:outline-none font-medium rounded-lg text-sm px-7 py-2.5 text-center me-2 mb-2 dark:border-white dark:text-white"
+              className="text-white hover:text-white border border-white hover:bg-gray-800 focus:outline-none font-medium rounded-lg text-sm px-7 py-2.5 text-center me-2 mb-2 dark:border-white dark:text-white"
             >
               Search
             </button>
